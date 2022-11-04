@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning C++
 
-- 📫 How to reach me **trekobbk@gmail.com**
+- 📫 How to reach me - **trekobbk@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny**
 
