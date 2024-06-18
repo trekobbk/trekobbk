@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shreya Prasad Rath</h1>
 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and JAVA 
 
-- 📫 How to reach me - **trekobbk@gmail.com**
+- 📫 How to reach me - **trekobbk@gmail.com** **ig= trekobbk_**
 
 - ⚡ Fun fact **I think I'm funny**
 
